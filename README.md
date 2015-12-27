@@ -21,4 +21,4 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 5. Appropriately labels the data set with descriptive variable names. 
 6. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and      each subject.
 
-In this repo you will find the files CodeBook.md, README.md, and Run_analysis.R
+In this repo you will find the files CodeBook.md, README.md, and run_analysis.R
